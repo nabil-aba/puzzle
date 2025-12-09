@@ -1,0 +1,82 @@
+[
+  {
+    "folder": "1",
+    "title": "Naruto",
+    "cols": 3,
+    "rows": 3,
+    "par": 50,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "2",
+    "title": "Gojo Satoru",
+    "cols": 3,
+    "rows": 3,
+    "par": 50,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "3",
+    "title": "Zoro",
+    "cols": 3,
+    "rows": 3,
+    "par": 50,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "4",
+    "title": "Geto",
+    "cols": 3,
+    "rows": 3,
+    "par": 50,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "5",
+    "title": "Naruto",
+    "cols": 4,
+    "rows": 4,
+    "par": 60,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "6",
+    "title": "Gojo Satoru",
+    "cols": 4,
+    "rows": 4,
+    "par": 60,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "7",
+    "title": "Zoro",
+    "cols": 4,
+    "rows": 4,
+    "par": 60,
+    "img_ext": "jpg",
+    "voice_count": 8,
+    "voice_ext": "wav"
+  },
+  {
+    "folder": "8",
+    "title": "Geto",
+    "cols": 4,
+    "rows": 4,
+    "par": 60,
+    "img_ext": "jpg",
+    "voice_count": 9,
+    "voice_ext": "wav"
+  }
+]
